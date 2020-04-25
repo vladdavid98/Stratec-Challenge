@@ -1,0 +1,14 @@
+C:\Users\Vlad\Desktop\2020_Internship_Challenge_Software\Stratec Challenge\bin\Release\Stratec Challenge.exe.config
+C:\Users\Vlad\Desktop\2020_Internship_Challenge_Software\Stratec Challenge\bin\Release\Stratec Challenge.exe
+C:\Users\Vlad\Desktop\2020_Internship_Challenge_Software\Stratec Challenge\bin\Release\Stratec Challenge.pdb
+C:\Users\Vlad\Desktop\2020_Internship_Challenge_Software\Stratec Challenge\obj\Release\Stratec Challenge.csprojAssemblyReference.cache
+C:\Users\Vlad\Desktop\2020_Internship_Challenge_Software\Stratec Challenge\obj\Release\Stratec_Challenge.GridForm.resources
+C:\Users\Vlad\Desktop\2020_Internship_Challenge_Software\Stratec Challenge\obj\Release\Stratec_Challenge.MainForm.resources
+C:\Users\Vlad\Desktop\2020_Internship_Challenge_Software\Stratec Challenge\obj\Release\Stratec_Challenge.Properties.Resources.resources
+C:\Users\Vlad\Desktop\2020_Internship_Challenge_Software\Stratec Challenge\obj\Release\Stratec Challenge.csproj.GenerateResource.cache
+C:\Users\Vlad\Desktop\2020_Internship_Challenge_Software\Stratec Challenge\obj\Release\Stratec Challenge.exe
+C:\Users\Vlad\Desktop\2020_Internship_Challenge_Software\Stratec Challenge\obj\Release\Stratec Challenge.pdb
+C:\Users\Vlad\Desktop\2020_Internship_Challenge_Software\Stratec Challenge\bin\Release\Stratec Challenge.exe.manifest
+C:\Users\Vlad\Desktop\2020_Internship_Challenge_Software\Stratec Challenge\bin\Release\Stratec Challenge.application
+C:\Users\Vlad\Desktop\2020_Internship_Challenge_Software\Stratec Challenge\obj\Release\Stratec Challenge.exe.manifest
+C:\Users\Vlad\Desktop\2020_Internship_Challenge_Software\Stratec Challenge\obj\Release\Stratec Challenge.application
